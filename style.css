@@ -1,0 +1,155 @@
+body {
+  font-family: 'open sans', sans-serif; 
+}
+
+ .section0{
+  background: url("images/car.jpg");
+  background-size: cover;
+  height: 100vh;
+  background-position: 50% 50%;
+  color: #fff;
+  border: 1px solid transparent; 
+}
+
+.intro{
+    border: 3px solid#08c728;
+    width: 226px;
+    margin: auto;
+    margin-top: 40px;
+}
+h1{
+	text-align: center;
+}
+
+.section2{
+  margin-top: 30px;
+      margin-bottom: 30px;
+}
+
+#tool{
+	width: 400px;
+	height: 400px;
+	border: 3px solid#08c728;
+	padding: 35px;
+}
+
+.section3{
+	background-color: #162b16;
+  height: 560px;
+}
+
+.serv1{
+background-color:yellow;
+ margin-top: 150px;
+ margin-bottom: 150px;}
+.serv1 p{
+color : #162b16;
+}
+span{
+      padding: 22px;
+    font-weight: 900;
+    font-size: 100px;
+    float: right;
+    padding-right: 180px;
+}
+.serv2{
+	margin-top: 150px;
+}
+.serv2 h1{
+color:yellow;
+    font-size: 80px;
+    font-weight: 900;
+  }
+.serv2 p{
+  color: white;
+  color: white;
+    text-align: center;
+    font-size: 23px;
+}
+
+.section4{
+background-color: grey;
+    height: 500px;
+}
+.section4 p{
+      letter-spacing: 4px;
+    margin-top: 100px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+}
+.section5{
+background-color:rgba(8, 199, 192, 0.58);
+height: 500px;
+
+}
+.section5 h2{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-top: 100px;
+    color: #333;
+}
+.col-md-4 h1{
+  color:yellow;
+    font-weight: 600;
+        font-size: 40px;
+}
+.col-md-4 p{
+  text-align: center;
+}
+
+.section6{
+background-image: url(images/watermark.png);
+color :rgba(0, 121, 255, 0.87);
+background-size: cover;
+height: 400px;
+background-position: 50% 50%;
+border: 1px solid transparent; 
+
+}
+.section6 h1{
+  margin-top: 135px;
+}
+.section7{
+background-color:rgba(8, 199, 192, 0.58); 
+height: 400px;
+}
+.section7 h1{
+      text-align: center;
+    font-size: 100px;
+    font-weight: 900;
+    color: yellow;
+}
+.section7 h2{
+  text-align: center;
+    text-align: center;
+    font-weight: 600;
+    font-size: 25px;
+}
+.section8{
+height: 420px;
+
+}
+.pic{
+background-image: url(images/watermark.png);
+color :rgba(0, 121, 255, 0.87);
+background-size: cover;
+height: 420px;
+background-position: 50% 50%;
+border: 1px solid transparent; 
+}
+
+.section9{
+  background-color:rgba(8, 199, 192, 0.58); 
+}
+.section9 h1{
+  color: yellow;
+}
+
+.section9 h2{
+font-size: 50px;
+    text-align: center;
+}
